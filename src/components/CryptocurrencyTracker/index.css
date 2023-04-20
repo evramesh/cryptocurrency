@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.container {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 70px;
+}

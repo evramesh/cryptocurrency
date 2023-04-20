@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.head {
+  color: aqua;
+}
+.currency {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.li {
+  color: white;
+  list-style: none;
+  background-color: #092e33;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 450px;
+  padding: 3px;
+  margin-left: 0px;
+}
+.item {
+  margin: 30px;
+}
+.ul {
+  border: 3px solid #00e7ff;
+  padding-left: 0px;
+}
